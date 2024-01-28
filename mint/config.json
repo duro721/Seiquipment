@@ -1,0 +1,8 @@
+{
+    "contractAddress": "sei1hjsqrfdg2hvwl3gacg4fkznurf36usrv7rkzkyh29wz3guuzeh0snslz7d",
+    "rpcEndpoint": "https://rpc.sei-apis.com/",
+    "gasPrice": "0.1usei",
+    "collection": "THE-COLLECTION-ADDRESS-HERE",
+    "group": "public",
+    "recipient": "YOUR-RECIPIENT-ADDRESS-HERE"
+}

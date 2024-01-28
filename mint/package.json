@@ -1,0 +1,19 @@
+{
+  "name": "mint",
+  "description": "This script is used for minting an NFT from a collection deployed by the Lighthouse contract.",
+  "version": "0.1.0",
+  "main": "mint.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.32.2",
+    "@cosmjs/proto-signing": "^0.32.2",
+    "@cosmjs/stargate": "^0.32.2",
+    "chain-registry": "^1.27.0"
+  }
+}
